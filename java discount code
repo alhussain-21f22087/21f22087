@@ -2,3 +2,4 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 class GFG{static float discountPercentage(float S, float M)
+Static float discountpercentage(float s,float m)
